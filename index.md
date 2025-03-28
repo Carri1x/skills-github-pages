@@ -9,8 +9,4 @@ Actualmente, estoy cursando el ciclo de Desarrollo de Aplicaciones Web en el IES
 Me considero una persona creativa, detallista y con una profunda pasión por el sector tecnológico. Disfruto trabajando en equipo, siempre abierto a nuevas ideas y proyectos desafiantes que pongan a prueba mis habilidades y conocimientos. Aspiro a integrarme en una empresa que valore mi trabajo y me brinde oportunidades para crecer profesionalmente.
 ---
 <footer><small>Atentamente desde Alicante</small></footer>
-<style>
-footer{
-  background-color:blue;
-}
-</style>
+
